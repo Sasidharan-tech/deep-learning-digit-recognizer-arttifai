@@ -20,4 +20,3 @@ This project is a digit recognition system built with Convolutional Neural Netwo
 4 NumPy, Pillow
 
 
-Let me know if you’d like a full `README.md` file with installation instructions and screenshots!
