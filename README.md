@@ -47,7 +47,7 @@ python gui_app.py
 To deploy this project run
 
 ```bash
-  npm run deploy
+  python gui_app.py
 ```
 
 
