@@ -1,5 +1,5 @@
 
-### Handwritten Digit Recognizer using Deep Learning
+# Handwritten Digit Recognizer using Deep Learning
 This project is a digit recognition system built using Convolutional Neural Networks (CNNs) trained on the MNIST dataset. It features a GUI built with Tkinter that allows users to draw digits and receive real-time predictions. The model is implemented using TensorFlow and achieves high accuracy in recognizing handwritten digits from 0 to 9.
 
 
