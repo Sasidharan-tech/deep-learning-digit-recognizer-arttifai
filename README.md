@@ -53,7 +53,7 @@ digit-recognizer/
 
 
 
-📷 Screenshots (Optional)
+📷 Screenshots 
 
 ![Screenshot (10)](https://github.com/user-attachments/assets/dcb750ee-c3a7-4cbb-87f6-d6475fd269ba)
 
