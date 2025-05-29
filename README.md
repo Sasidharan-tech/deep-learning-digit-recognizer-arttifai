@@ -59,9 +59,7 @@ digit-recognizer/
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/e67dbb94-f36d-4dc2-a57f-7448f7aeaf39)
 
-✅ License
 
-This project is licensed under the MIT License.
 
 
 Made with ❤️ using Deep Learning.
